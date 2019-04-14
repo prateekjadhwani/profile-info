@@ -1,6 +1,6 @@
 {
   "name": "profile-info",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A webcomponent that shows information about an employee in the form of a profile card.",
   "main": "ProfileInfo.js",
   "scripts": {
@@ -15,8 +15,5 @@
   ],
   "author": "Prateek Jadhwani",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/prateekjadhwani/profile-info"
-  }
+  "repository": "https://github.com/prateekjadhwani/profile-info",
 }
