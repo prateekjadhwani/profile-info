@@ -15,5 +15,8 @@
   ],
   "author": "Prateek Jadhwani",
   "license": "ISC",
-  "git": "https://github.com/prateekjadhwani/profile-info.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekjadhwani/profile-info.git"
+  }
 }
